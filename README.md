@@ -1,6 +1,6 @@
 # Pengembangan Machine Learning
 
-📂 Sumber Dataset [Intel Image Classification](puneet6060/intel-image-classification)
+📂 Sumber Dataset [Intel Image Classification](puneet6060/intel-image-classification)  
 Deskripsi: Dataset berisi gambar lingkungan dengan enam kategori berbeda, digunakan untuk klasifikasi gambar berbasis Convolutional Neural Networks (CNN).
 
 Jumlah Kelas:
